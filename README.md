@@ -95,7 +95,7 @@ This dashboard isn't just a report—it's a **story** about your ecommerce busin
 
 ## 🖼 Dashboard Preview
 
-![E-commerce Sales Dashboard](Images/dashboard_screenshot.png)
+![E-commerce Sales Dashboard]([Images/dashboard_screenshot.png](https://github.com/ruheel-data-analyst/Ecommerce-Sales-Dashboard-/blob/main/Ecommerce%20Sales%20Dashboard.PNG))
 
 
 ---
